@@ -91,7 +91,7 @@ This script is intended for **authorized testing and educational purposes** only
 
 
 ## Credits
-- Original inspiration: **TCM Security Automation Scanner**
+- Original inspiration: **@hmaverickadams Automation Scanner**
 - Enhanced by: @maczidane
 
 
